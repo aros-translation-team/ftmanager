@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language czech
+## codeset 5
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+Správce písem FreeType
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+Správce písem FreeType
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Zdroj
+; Source
+;
+MSG_LABEL_DESTINATION
+Cíl
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Kódová stránka
+; Codepage
+;
+MSG_QUIT
+_Ukonèit
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Instalovat
+; _Install
+;
+MSG_BUTTON_CLOSE
+_Zavøít
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+Ultra tenké
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+Extra tenké
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Tenké
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+Extra svìtlé
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Svìtlé
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+Demi svìtlé
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+Semi svìtlé
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Kni¾ní
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Støední
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+Polotuèné
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+Demi tuèné
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Tuèné
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+Extra tuèné
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Èerné
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+Extra èerné
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+Ultra èerné
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Vlastní
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Vzpøímené
+; Upright
+;
+MSG_STYLE_ITALIC
+Kurzíva
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+Levá kurzíva
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+Ultra stlaèené
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+Extra stlaèené
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Stlaèené
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Zú¾ené
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normální
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+Semi roz¹íøené
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+Roz¹íøené
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+Extra roz¹íøené
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Vlastní
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Globální ohranièující rámeèek
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Pùvodní metrika písma
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Horní dotah
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Typografický horní dotah
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+Horní dotah USWin
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Vlastní ohranièující rámeèek
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Dal¹í soubor
+; Extra file
+;
+MSG_LABEL_FACENUM
+Èíslo øezu
+; Face num
+;
+MSG_LABEL_NAME
+Název
+; Name
+;
+MSG_LABEL_FAMILY
+Rodina
+; Family
+;
+MSG_LABEL_METRIC
+Metrika
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Ohranièující rámeèek
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Faktor velikosti
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+©íøka mezery
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Pevná ¹íøka
+; Fixed width
+;
+MSG_LABEL_SERIF
+Patkové
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Tlou¹»ka tahù
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Styl sklonu
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Horiz. styl
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Náhled
+; Preview
+;
+MSG_PREVIEW_STRING
+Pøíli¹ ¾lu»ouèký kùò úpìl ïábelské ódy.
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Velikost
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Vyhlazování
+; Anti-aliasing
+;

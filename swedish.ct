@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language svenska
+## codeset 0
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+FreeType-typsnittshanterare
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+FreeType-typsnittshanterare
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Källa
+; Source
+;
+MSG_LABEL_DESTINATION
+Destination
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Teckentabell
+; Codepage
+;
+MSG_QUIT
+_Avsluta
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Installera
+; _Install
+;
+MSG_BUTTON_CLOSE
+_Stäng
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+Ultratunn
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+Extratunn
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Tunn
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+Extraljus
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Ljus
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+Demiljus
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+Halvljus
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Bok
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Medium
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+Halvfet
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+Demifet
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Fet
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+Extrafet
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Svart
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+Extrasvart
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+Ultrasvart
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Egen
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Upprätt
+; Upright
+;
+MSG_STYLE_ITALIC
+Kursiv
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+Vänsterkursiv
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+Ultrakomprimerad
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+Extrakomprimerad
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Komprimerad
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Smal
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normal
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+Halvbred
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+Bred
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+Extrabred
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Egen
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Global begränsningsruta
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Rå typsnittsmetrik
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Ascender
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Typo-ascender
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+USWin-ascender
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Egen begränsningsruta
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Extrafil
+; Extra file
+;
+MSG_LABEL_FACENUM
+Snittnummer
+; Face num
+;
+MSG_LABEL_NAME
+Namn
+; Name
+;
+MSG_LABEL_FAMILY
+Familj
+; Family
+;
+MSG_LABEL_METRIC
+Metrik
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Begränsningsruta
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Storleksfaktor
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+Mellanslagsbredd
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Fast bredd
+; Fixed width
+;
+MSG_LABEL_SERIF
+Serif
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Stapeltjocklek
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Lutningsstil
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Horis. stil
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Förhandsgranskning
+; Preview
+;
+MSG_PREVIEW_STRING
+Flygande bäckasiner söka hwila på mjuka tuvor.
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Storlek
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Kantutjämning
+; Anti-aliasing
+;

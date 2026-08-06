@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language dansk
+## codeset 0
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+FreeType-skrifttypehåndtering
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+FreeType-skrifttypehåndtering
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Kilde
+; Source
+;
+MSG_LABEL_DESTINATION
+Destination
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Tegnsæt
+; Codepage
+;
+MSG_QUIT
+_Afslut
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Installer
+; _Install
+;
+MSG_BUTTON_CLOSE
+_Luk
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+Ultratynd
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+Ekstratynd
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Tynd
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+Ekstramager
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Mager
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+Demimager
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+Halvmager
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Normal
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Medium
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+Halvfed
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+Demifed
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Fed
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+Ekstrafed
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Sort
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+Ekstrasort
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+Ultrasort
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Brugerdefineret
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Opretstående
+; Upright
+;
+MSG_STYLE_ITALIC
+Kursiv
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+Venstrekursiv
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+Ultrakomprimeret
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+Ekstrakomprimeret
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Komprimeret
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Smal
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normal
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+Halvbred
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+Bred
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+Ekstrabred
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Brugerdefineret
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Global afgrænsningsboks
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Rå skrifttypemetrik
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Ascender
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Typo ascender
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+USWin ascender
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Egen afgrænsningsboks
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Ekstra fil
+; Extra file
+;
+MSG_LABEL_FACENUM
+Snitnummer
+; Face num
+;
+MSG_LABEL_NAME
+Navn
+; Name
+;
+MSG_LABEL_FAMILY
+Familie
+; Family
+;
+MSG_LABEL_METRIC
+Metrik
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Afgrænsningsboks
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Størrelsesfaktor
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+Mellemrumsbredde
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Fast bredde
+; Fixed width
+;
+MSG_LABEL_SERIF
+Serif
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Stammetykkelse
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Hældningsstil
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Vandret stil
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Forhåndsvisning
+; Preview
+;
+MSG_PREVIEW_STRING
+Høj bly gom vandt fræk sexquiz på wc.
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Størrelse
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Kantudjævning
+; Anti-aliasing
+;

@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language srpski
+## codeset 8
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+FreeType menadßer fontova
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+FreeType menadßer fontova
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Izvor
+; Source
+;
+MSG_LABEL_DESTINATION
+OdrediÁte
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Kodna strana
+; Codepage
+;
+MSG_QUIT
+_Iza–i
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Instaliraj
+; _Install
+;
+MSG_BUTTON_CLOSE
+_Zatvori
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+Ultratanko
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+Ekstratanko
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Tanko
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+Ekstrasvetlo
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Svetlo
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+Demisvetlo
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+Polusvetlo
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Knjiga
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Srednje
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+Polupodebljano
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+Demipodebljano
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Podebljano
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+Ekstrapodebljano
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Crno
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+Ekstracrno
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+Ultracrno
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Prilago–eno
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Uspravno
+; Upright
+;
+MSG_STYLE_ITALIC
+Kurziv
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+Levi kurziv
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+Ultrasabijeno
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+Ekstrasabijeno
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Sabijeno
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Zbijeno
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normalno
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+PoluproÁireno
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+ProÁireno
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+EkstraproÁireno
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Prilago–eno
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Globalni graniüni okvir
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Sirova metrika fonta
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Ascender
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Typo ascender
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+USWin ascender
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Prilago–eni graniüni okvir
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Dodatni fajl
+; Extra file
+;
+MSG_LABEL_FACENUM
+Broj lika
+; Face num
+;
+MSG_LABEL_NAME
+Ime
+; Name
+;
+MSG_LABEL_FAMILY
+Familija
+; Family
+;
+MSG_LABEL_METRIC
+Metrika
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Graniüni okvir
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Faktor veliüine
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+Êirina razmaka
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Fiksna Áirina
+; Fixed width
+;
+MSG_LABEL_SERIF
+Serif
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Debljina poteza
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Stil nagiba
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Horiz. stil
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Pregled
+; Preview
+;
+MSG_PREVIEW_STRING
+Ljubazni fenjerdßija üa–avog lica hoÜe da mi pokaße Átos.
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Veliüina
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Anti-aliasing
+; Anti-aliasing
+;

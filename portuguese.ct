@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language português
+## codeset 0
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+Gestor de fontes FreeType
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+Gestor de fontes FreeType
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Origem
+; Source
+;
+MSG_LABEL_DESTINATION
+Destino
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Página de códigos
+; Codepage
+;
+MSG_QUIT
+_Sair
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Instalar
+; _Install
+;
+MSG_BUTTON_CLOSE
+_Fechar
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+UltraFina
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+ExtraFina
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Fina
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+ExtraLeve
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Leve
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+DemiLeve
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+SemiLeve
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Book
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Média
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+SemiNegrito
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+DemiNegrito
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Negrito
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+ExtraNegrito
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Preta
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+ExtraPreta
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+UltraPreta
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Personalizada
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Vertical
+; Upright
+;
+MSG_STYLE_ITALIC
+Itálica
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+ItálicaEsquerda
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+UltraComprimida
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+ExtraComprimida
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Comprimida
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Condensada
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normal
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+SemiExpandida
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+Expandida
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+ExtraExpandida
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Personalizada
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Caixa delimitadora global
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Métrica bruta da fonte
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Ascendente
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Ascendente tipográfico
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+Ascendente USWin
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Caixa delimitadora personalizada
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Ficheiro extra
+; Extra file
+;
+MSG_LABEL_FACENUM
+Núm. da face
+; Face num
+;
+MSG_LABEL_NAME
+Nome
+; Name
+;
+MSG_LABEL_FAMILY
+Família
+; Family
+;
+MSG_LABEL_METRIC
+Métrica
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Caixa delimitadora
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Factor de tamanho
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+Largura do espaço
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Largura fixa
+; Fixed width
+;
+MSG_LABEL_SERIF
+Serifa
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Espessura da haste
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Estilo de inclinação
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Estilo horiz.
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Vista prévia
+; Preview
+;
+MSG_PREVIEW_STRING
+A rápida raposa castanha saltou por cima do cão preguiçoso.
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Tamanho
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Anti-aliasing
+; Anti-aliasing
+;

@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language suomi
+## codeset 0
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+FreeType-kirjasinhallinta
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+FreeType-kirjasinhallinta
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Lähde
+; Source
+;
+MSG_LABEL_DESTINATION
+Kohde
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Koodisivu
+; Codepage
+;
+MSG_QUIT
+_Lopeta
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Asenna
+; _Install
+;
+MSG_BUTTON_CLOSE
+_Sulje
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+Ultraohut
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+Erittäin ohut
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Ohut
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+Erittäin kevyt
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Kevyt
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+Demikevyt
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+Puolikevyt
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Normaali
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Keskivahva
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+Puolilihava
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+Demilihava
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Lihava
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+Erittäin lihava
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Musta
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+Erittäin musta
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+Ultramusta
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Mukautettu
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Pysty
+; Upright
+;
+MSG_STYLE_ITALIC
+Kursiivi
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+Vasen kursiivi
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+Ultratiivistetty
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+Erittäin tiivistetty
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Tiivistetty
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Kavennettu
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normaali
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+Puolilevennetty
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+Levennetty
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+Erittäin levennetty
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Mukautettu
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Yleinen rajauslaatikko
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Raaka kirjasinmetriikka
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Yläpidennys
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Typo-yläpidennys
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+USWin-yläpidennys
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Mukautettu rajauslaatikko
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Lisätiedosto
+; Extra file
+;
+MSG_LABEL_FACENUM
+Leikkauksen nro
+; Face num
+;
+MSG_LABEL_NAME
+Nimi
+; Name
+;
+MSG_LABEL_FAMILY
+Perhe
+; Family
+;
+MSG_LABEL_METRIC
+Metriikka
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Rajauslaatikko
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Kokokerroin
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+Välilyönnin leveys
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Kiinteä leveys
+; Fixed width
+;
+MSG_LABEL_SERIF
+Päätteellinen
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Viivan vahvuus
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Kaltevuustyyli
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Vaakatyyli
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Esikatselu
+; Preview
+;
+MSG_PREVIEW_STRING
+Viekas kettu punaturkki laiskan koiran takaa kurkki.
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Koko
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Reunojen pehmennys
+; Anti-aliasing
+;

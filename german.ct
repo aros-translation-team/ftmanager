@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language deutsch
+## codeset 0
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+FreeType-Schriftverwaltung
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+FreeType-Schriftverwaltung
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Quelle
+; Source
+;
+MSG_LABEL_DESTINATION
+Ziel
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Codepage
+; Codepage
+;
+MSG_QUIT
+_Beenden
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Installieren
+; _Install
+;
+MSG_BUTTON_CLOSE
+Schließen
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+Ultradünn
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+Extradünn
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Dünn
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+Extraleicht
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Leicht
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+Halbleicht
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+Semileicht
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Buch
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Mittel
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+Semifett
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+Halbfett
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Fett
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+Extrafett
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Schwarz
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+Extraschwarz
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+Ultraschwarz
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Benutzerdefiniert
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Aufrecht
+; Upright
+;
+MSG_STYLE_ITALIC
+Kursiv
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+Linkskursiv
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+Ultrakomprimiert
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+Extrakomprimiert
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Komprimiert
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Schmal
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normal
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+Halbbreit
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+Breit
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+Extrabreit
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Benutzerdefiniert
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Globaler Begrenzungsrahmen
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Rohe Schriftmetrik
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Oberlänge
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Typo-Oberlänge
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+USWin-Oberlänge
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Eigener Begrenzungsrahmen
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Zusatzdatei
+; Extra file
+;
+MSG_LABEL_FACENUM
+Face-Nr.
+; Face num
+;
+MSG_LABEL_NAME
+Name
+; Name
+;
+MSG_LABEL_FAMILY
+Familie
+; Family
+;
+MSG_LABEL_METRIC
+Metrik
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Begrenzungsrahmen
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Größenfaktor
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+Leerzeichenbreite
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Feste Breite
+; Fixed width
+;
+MSG_LABEL_SERIF
+Serifen
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Strichstärke
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Neigungsstil
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Horiz. Stil
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Vorschau
+; Preview
+;
+MSG_PREVIEW_STRING
+Franz jagt im komplett verwahrlosten Taxi quer durch Bayern.
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Größe
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Kantenglättung
+; Anti-aliasing
+;

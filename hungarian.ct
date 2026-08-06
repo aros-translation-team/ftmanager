@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language magyar
+## codeset 5
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+FreeType betûtípus-kezelõ
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+FreeType betûtípus-kezelõ
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Forrás
+; Source
+;
+MSG_LABEL_DESTINATION
+Cél
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Kódlap
+; Codepage
+;
+MSG_QUIT
+_Kilépés
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Telepít
+; _Install
+;
+MSG_BUTTON_CLOSE
+_Bezár
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+Ultravékony
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+Extravékony
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Vékony
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+Extravilágos
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Világos
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+Félvilágos
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+Félig világos
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Könyv
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Közepes
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+Félig kövér
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+Félkövér
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Kövér
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+Extrakövér
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Fekete
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+Extrafekete
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+Ultrafekete
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Egyedi
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Álló
+; Upright
+;
+MSG_STYLE_ITALIC
+Dõlt
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+Balra dõlt
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+Ultraszûkített
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+Extraszûkített
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Szûkített
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Keskenyített
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normál
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+Félig szélesített
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+Szélesített
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+Extraszélesített
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Egyedi
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Globális befoglaló keret
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Nyers betûmetrika
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Felsõ nyúlvány
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Typo felsõ nyúlvány
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+USWin felsõ nyúlvány
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Egyedi befoglaló keret
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Extra fájl
+; Extra file
+;
+MSG_LABEL_FACENUM
+Metszetszám
+; Face num
+;
+MSG_LABEL_NAME
+Név
+; Name
+;
+MSG_LABEL_FAMILY
+Család
+; Family
+;
+MSG_LABEL_METRIC
+Metrika
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Befoglaló keret
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Méretfaktor
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+Szóköz szélessége
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Fix szélesség
+; Fixed width
+;
+MSG_LABEL_SERIF
+Talpas
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Szárvastagság
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Dõlés stílusa
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Vízsz. stílus
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Elõnézet
+; Preview
+;
+MSG_PREVIEW_STRING
+Árvíztûrõ tükörfúrógép.
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Méret
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Élsimítás
+; Anti-aliasing
+;

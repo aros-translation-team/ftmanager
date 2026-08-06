@@ -1,0 +1,256 @@
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
+## language català
+## codeset 0
+;
+MSG_APP_NAME
+FTManager
+; FTManager
+;
+MSG_APP_TITLE
+Gestor de fonts FreeType
+; FreeType font manager
+;
+MSG_WINDOW_TITLE
+Gestor de fonts FreeType
+; FreeType font manager
+;
+MSG_LABEL_SOURCE
+Origen
+; Source
+;
+MSG_LABEL_DESTINATION
+Destinació
+; Destination
+;
+MSG_LABEL_CODEPAGE
+Pàgina de codis
+; Codepage
+;
+MSG_QUIT
+_Sortir
+; _Quit
+;
+MSG_BUTTON_INSTALL
+_Instal·lar
+; _Install
+;
+MSG_BUTTON_CLOSE
+_Tancar
+; _Close
+;
+MSG_WEIGHT_ULTRATHIN
+UltraFina
+; UltraThin
+;
+MSG_WEIGHT_EXTRATHIN
+ExtraFina
+; ExtraThin
+;
+MSG_WEIGHT_THIN
+Fina
+; Thin
+;
+MSG_WEIGHT_EXTRALIGHT
+ExtraClara
+; ExtraLight
+;
+MSG_WEIGHT_LIGHT
+Clara
+; Light
+;
+MSG_WEIGHT_DEMILIGHT
+DemiClara
+; DemiLight
+;
+MSG_WEIGHT_SEMILIGHT
+SemiClara
+; SemiLight
+;
+MSG_WEIGHT_BOOK
+Llibre
+; Book
+;
+MSG_WEIGHT_MEDIUM
+Mitjana
+; Medium
+;
+MSG_WEIGHT_SEMIBOLD
+SemiNegreta
+; SemiBold
+;
+MSG_WEIGHT_DEMIBOLD
+DemiNegreta
+; DemiBold
+;
+MSG_WEIGHT_BOLD
+Negreta
+; Bold
+;
+MSG_WEIGHT_EXTRABOLD
+ExtraNegreta
+; ExtraBold
+;
+MSG_WEIGHT_BLACK
+Negra
+; Black
+;
+MSG_WEIGHT_EXTRABLACK
+ExtraNegra
+; ExtraBlack
+;
+MSG_WEIGHT_ULTRABLACK
+UltraNegra
+; UltraBlack
+;
+MSG_WEIGHT_CUSTOM
+Personalitzada
+; Custom
+;
+MSG_STYLE_UPRIGHT
+Recta
+; Upright
+;
+MSG_STYLE_ITALIC
+Cursiva
+; Italic
+;
+MSG_STYLE_LEFTITALIC
+CursivaEsquerra
+; LeftItalic
+;
+MSG_HSTYLE_ULTRACOMPRESSED
+UltraComprimida
+; UltraCompressed
+;
+MSG_HSTYLE_EXTRACOMPRESSED
+ExtraComprimida
+; ExtraCompressed
+;
+MSG_HSTYLE_COMPRESSED
+Comprimida
+; Compressed
+;
+MSG_HSTYLE_CONDENSED
+Condensada
+; Condensed
+;
+MSG_HSTYLE_NORMAL
+Normal
+; Normal
+;
+MSG_HSTYLE_SEMIEXPANDED
+SemiExpandida
+; SemiExpanded
+;
+MSG_HSTYLE_EXPANDED
+Expandida
+; Expanded
+;
+MSG_HSTYLE_EXTRAEXPANDED
+ExtraExpandida
+; ExtraExpanded
+;
+MSG_HSTYLE_CUSTOM
+Personalitzada
+; Custom
+;
+MSG_METRIC_GLOBALBOUNDINGBOX
+Caixa delimitadora global
+; Global bounding box
+;
+MSG_METRIC_RAWFONTMETRIC
+Mètrica de font en brut
+; Raw font metric
+;
+MSG_METRIC_ASCENDER
+Ascendent
+; Ascender
+;
+MSG_METRIC_TYPOASCENDER
+Ascendent tipogràfic
+; Typo ascender
+;
+MSG_METRIC_USWINASCENDER
+Ascendent USWin
+; USWin ascender
+;
+MSG_METRIC_CUSTOMBOUNDINGBOX
+Caixa delimitadora personalitzada
+; Custom bounding box
+;
+MSG_LABEL_EXTRAFILE
+Arxiu extra
+; Extra file
+;
+MSG_LABEL_FACENUM
+Núm. de cara
+; Face num
+;
+MSG_LABEL_NAME
+Nom
+; Name
+;
+MSG_LABEL_FAMILY
+Família
+; Family
+;
+MSG_LABEL_METRIC
+Mètrica
+; Metric
+;
+MSG_LABEL_BOUNDINGBOX
+Caixa delimitadora
+; Bounding box
+;
+MSG_LABEL_YMIN
+yMin
+; yMin
+;
+MSG_LABEL_YMAX
+yMax
+; yMax
+;
+MSG_LABEL_SIZEFACTOR
+Factor de mida
+; Size factor
+;
+MSG_LABEL_SPACEWIDTH
+Amplada de l'espai
+; Space width
+;
+MSG_LABEL_FIXEDWIDTH
+Amplada fixa
+; Fixed width
+;
+MSG_LABEL_SERIF
+Serif
+; Serif
+;
+MSG_LABEL_STEMWEIGHT
+Gruix del traç
+; Stem weight
+;
+MSG_LABEL_SLANTSTYLE
+Estil d'inclinació
+; Slant style
+;
+MSG_LABEL_HORIZSTYLE
+Estil horitz.
+; Horiz style
+;
+MSG_FRAME_PREVIEW
+Vista prèvia
+; Preview
+;
+MSG_PREVIEW_STRING
+Jove xef, porti whisky amb quinze glaçons d'hidrogen, coi!
+; The quick brown fox jumped over the lazy dog.
+;
+MSG_LABEL_SIZE
+Mida
+; Size
+;
+MSG_LABEL_ANTIALIASING
+Suavitzat
+; Anti-aliasing
+;

@@ -1,4 +1,4 @@
-## version $VER: FTManager.catalog 1.1 (19.03.2023)
+## version $VER: FTManager.catalog 2.0 (06.08.2026)
 ## language italiano
 ## codeset 0
 ;
@@ -19,17 +19,9 @@ MSG_LABEL_SOURCE
 Sorgente
 ; Source
 ;
-MSG_ASL_FONTS_TRUETYPE
-Fonts:TrueType
-; Fonts:TrueType
-;
 MSG_LABEL_DESTINATION
 Destinazione
 ; Destination
-;
-MSG_ASL_FONTS
-Fonts:
-; Fonts:
 ;
 MSG_LABEL_CODEPAGE
 Codepage
